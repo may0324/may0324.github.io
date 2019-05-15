@@ -1,9 +1,9 @@
 # Site settings
 title: MOOMO's Blog
 SEOTitle: 没酱的博客 | MOOMO's Blog
-header-img: img/post-bg-desk.jpg
+header-img: img/bg_IMG_0238.jpg
 email: muyanlee@gmail.com
-description: "Every failure is leading towards success."
+description: "How long will I persist?"
 keyword: "Computer Vision, Deep Learning, iOS, Apple, iPhone"
 url: "http://may0324.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
@@ -11,8 +11,8 @@ github_repo: "https://github.com/may0324/may0324.github.io.git" # you code repos
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "Goals determine what you going to be!"
-sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-about-description: "Fight for what we love!"
+sidebar-avatar: /img/me2.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
